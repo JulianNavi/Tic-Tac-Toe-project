@@ -9,6 +9,7 @@ td {
     height: 150px;
     text-align: center;
     font-size: 80px;
+    font-weight: 500;
 }
 
 table {
@@ -48,5 +49,5 @@ tr td:last-child {
     height: 150px;
     border-radius: 10%;
     margin-top: 105px;
-    font-size: 2rem;
+    font-size: 4rem;
 }
